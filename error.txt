@@ -1,0 +1,1619 @@
+(base) bencouser/~$ pip install azureml-pipeline
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.40.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.40.0
+  Using cached azureml_pipeline_core-1.40.0-py3-none-any.whl (313 kB)
+Collecting azureml-pipeline-steps~=1.40.0
+  Using cached azureml_pipeline_steps-1.40.0-py3-none-any.whl (70 kB)
+Requirement already satisfied: azureml-core~=1.40.0 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-pipeline-core~=1.40.0->azureml-pipeline) (1.40.0.post2)
+INFO: pip is looking at multiple versions of <Python from Requires-Python> to determine which version is compatible with other requirements. This could take a while.
+INFO: pip is looking at multiple versions of azureml-pipeline-core to determine which version is compatible with other requirements. This could take a while.
+INFO: pip is looking at multiple versions of azureml-pipeline to determine which version is compatible with other requirements. This could take a while.
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.39.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.39.0
+  Using cached azureml_pipeline_core-1.39.0-py3-none-any.whl (313 kB)
+Collecting azureml-pipeline-steps~=1.39.0
+  Using cached azureml_pipeline_steps-1.39.0-py3-none-any.whl (70 kB)
+Collecting azureml-train-core~=1.39.0
+  Using cached azureml_train_core-1.39.0-py3-none-any.whl (8.6 MB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.38.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.38.0
+  Using cached azureml_pipeline_core-1.38.0-py3-none-any.whl (313 kB)
+Collecting azureml-pipeline-steps~=1.38.0
+  Using cached azureml_pipeline_steps-1.38.0-py3-none-any.whl (70 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.37.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.37.0
+  Using cached azureml_pipeline_core-1.37.0-py3-none-any.whl (313 kB)
+Collecting azureml-pipeline-steps~=1.37.0
+  Using cached azureml_pipeline_steps-1.37.0-py3-none-any.whl (70 kB)
+Collecting azureml-train-core~=1.37.0
+  Using cached azureml_train_core-1.37.0-py3-none-any.whl (8.6 MB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.36.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.36.0
+  Using cached azureml_pipeline_core-1.36.0-py3-none-any.whl (313 kB)
+Collecting azureml-pipeline-steps~=1.36.0
+  Using cached azureml_pipeline_steps-1.36.0-py3-none-any.whl (70 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.35.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.35.0
+  Using cached azureml_pipeline_steps-1.35.0-py3-none-any.whl (70 kB)
+Collecting azureml-pipeline-core~=1.35.0
+  Using cached azureml_pipeline_core-1.35.0-py3-none-any.whl (312 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.34.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.34.0
+  Using cached azureml_pipeline_core-1.34.0-py3-none-any.whl (312 kB)
+Collecting azureml-pipeline-steps~=1.34.0
+  Using cached azureml_pipeline_steps-1.34.0-py3-none-any.whl (70 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.33.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.33.0
+  Using cached azureml_pipeline_core-1.33.0-py3-none-any.whl (312 kB)
+Collecting azureml-pipeline-steps~=1.33.0
+  Using cached azureml_pipeline_steps-1.33.0-py3-none-any.whl (70 kB)
+INFO: pip is looking at multiple versions of azureml-pipeline to determine which version is compatible with other requirements. This could take a while.
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.32.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.32.0
+  Using cached azureml_pipeline_core-1.32.0-py3-none-any.whl (311 kB)
+Collecting azureml-pipeline-steps~=1.32.0
+  Using cached azureml_pipeline_steps-1.32.0-py3-none-any.whl (70 kB)
+Collecting azureml-train-core~=1.32.0
+  Using cached azureml_train_core-1.32.0-py3-none-any.whl (8.6 MB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.31.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.31.0
+  Using cached azureml_pipeline_steps-1.31.0-py3-none-any.whl (69 kB)
+Collecting azureml-pipeline-core~=1.31.0
+  Using cached azureml_pipeline_core-1.31.0-py3-none-any.whl (311 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.30.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.30.0
+  Using cached azureml_pipeline_steps-1.30.0-py3-none-any.whl (69 kB)
+Collecting azureml-pipeline-core~=1.30.0
+  Using cached azureml_pipeline_core-1.30.0-py3-none-any.whl (311 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.29.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.29.0
+  Using cached azureml_pipeline_steps-1.29.0-py3-none-any.whl (69 kB)
+Collecting azureml-pipeline-core~=1.29.0
+  Using cached azureml_pipeline_core-1.29.0-py3-none-any.whl (311 kB)
+Collecting azureml-train-core~=1.29.0
+  Using cached azureml_train_core-1.29.0-py3-none-any.whl (8.6 MB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.28.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.28.0
+  Using cached azureml_pipeline_core-1.28.0-py3-none-any.whl (311 kB)
+Collecting azureml-pipeline-steps~=1.28.0
+  Using cached azureml_pipeline_steps-1.28.0-py3-none-any.whl (69 kB)
+Collecting azureml-train-core~=1.28.0
+  Using cached azureml_train_core-1.28.0-py3-none-any.whl (8.6 MB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. 
+If you want to abort this run, press Ctrl + C.
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.27.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.27.0
+  Using cached azureml_pipeline_core-1.27.0-py3-none-any.whl (310 kB)
+Collecting azureml-pipeline-steps~=1.27.0
+  Using cached azureml_pipeline_steps-1.27.0-py3-none-any.whl (69 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.26.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.26.0
+  Using cached azureml_pipeline_steps-1.26.0-py3-none-any.whl (68 kB)
+Collecting azureml-pipeline-core~=1.26.0
+  Using cached azureml_pipeline_core-1.26.0-py3-none-any.whl (309 kB)
+Collecting azureml-train-core~=1.26.0
+  Using cached azureml_train_core-1.26.0-py3-none-any.whl (8.6 MB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.25.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.25.0
+  Using cached azureml_pipeline_steps-1.25.0-py3-none-any.whl (68 kB)
+Collecting azureml-pipeline-core~=1.25.0
+  Using cached azureml_pipeline_core-1.25.0-py3-none-any.whl (309 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.24.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.24.0
+  Using cached azureml_pipeline_core-1.24.0-py3-none-any.whl (308 kB)
+Collecting azureml-pipeline-steps~=1.24.0
+  Using cached azureml_pipeline_steps-1.24.0-py3-none-any.whl (67 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.23.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.23.0
+  Using cached azureml_pipeline_steps-1.23.0-py3-none-any.whl (67 kB)
+Collecting azureml-pipeline-core~=1.23.0
+  Using cached azureml_pipeline_core-1.23.0-py3-none-any.whl (308 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.22.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.22.0
+  Using cached azureml_pipeline_core-1.22.0-py3-none-any.whl (308 kB)
+Collecting azureml-pipeline-steps~=1.22.0
+  Using cached azureml_pipeline_steps-1.22.0-py3-none-any.whl (67 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.21.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.21.0
+  Using cached azureml_pipeline_steps-1.21.0-py3-none-any.whl (66 kB)
+Collecting azureml-pipeline-core~=1.21.0
+  Using cached azureml_pipeline_core-1.21.0-py3-none-any.whl (307 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.20.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.20.0
+  Using cached azureml_pipeline_steps-1.20.0-py3-none-any.whl (66 kB)
+Collecting azureml-pipeline-core~=1.20.0
+  Using cached azureml_pipeline_core-1.20.0-py3-none-any.whl (307 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.19.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.19.0
+  Using cached azureml_pipeline_core-1.19.0-py3-none-any.whl (306 kB)
+Collecting azureml-pipeline-steps~=1.19.0
+  Using cached azureml_pipeline_steps-1.19.0-py3-none-any.whl (62 kB)
+Collecting azureml-train-core~=1.19.0
+  Using cached azureml_train_core-1.19.0-py3-none-any.whl (8.6 MB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.18.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.18.0
+  Using cached azureml_pipeline_steps-1.18.0-py3-none-any.whl (62 kB)
+Collecting azureml-pipeline-core~=1.18.0
+  Using cached azureml_pipeline_core-1.18.0-py3-none-any.whl (306 kB)
+Collecting azureml-train-automl-client~=1.18.0
+  Using cached azureml_train_automl_client-1.18.0-py3-none-any.whl (107 kB)
+Collecting azureml-train-core~=1.18.0
+  Using cached azureml_train_core-1.18.0.post1-py3-none-any.whl (8.6 MB)
+Collecting azureml-telemetry~=1.18.0
+  Using cached azureml_telemetry-1.18.0.post1-py3-none-any.whl (30 kB)
+INFO: pip is looking at multiple versions of azureml-pipeline-steps to determine which version is compatible with other requirements. This could take a while.
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.17.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.17.0
+  Using cached azureml_pipeline_core-1.17.0-py3-none-any.whl (303 kB)
+Collecting azureml-pipeline-steps~=1.17.0
+  Using cached azureml_pipeline_steps-1.17.0-py3-none-any.whl (60 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.16.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.16.0
+  Using cached azureml_pipeline_core-1.16.0-py3-none-any.whl (301 kB)
+Collecting azureml-pipeline-steps~=1.16.0
+  Using cached azureml_pipeline_steps-1.16.0-py3-none-any.whl (60 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.15.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.15.0
+  Using cached azureml_pipeline_steps-1.15.0-py3-none-any.whl (60 kB)
+Collecting azureml-pipeline-core~=1.15.0
+  Using cached azureml_pipeline_core-1.15.0-py3-none-any.whl (302 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.14.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.14.0
+  Using cached azureml_pipeline_steps-1.14.0-py3-none-any.whl (60 kB)
+Collecting azureml-pipeline-core~=1.14.0
+  Using cached azureml_pipeline_core-1.14.0-py3-none-any.whl (302 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.13.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.13.0
+  Using cached azureml_pipeline_core-1.13.0-py3-none-any.whl (300 kB)
+Collecting azureml-pipeline-steps~=1.13.0
+  Using cached azureml_pipeline_steps-1.13.0-py3-none-any.whl (59 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.12.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.12.0
+  Using cached azureml_pipeline_core-1.12.0-py3-none-any.whl (300 kB)
+Collecting azureml-pipeline-steps~=1.12.0
+  Using cached azureml_pipeline_steps-1.12.0-py3-none-any.whl (59 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.11.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.11.0
+  Using cached azureml_pipeline_core-1.11.0-py3-none-any.whl (295 kB)
+Collecting azureml-pipeline-steps~=1.11.0
+  Using cached azureml_pipeline_steps-1.11.0-py3-none-any.whl (58 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.10.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.10.0
+  Using cached azureml_pipeline_core-1.10.0-py3-none-any.whl (291 kB)
+Collecting azureml-pipeline-steps~=1.10.0
+  Using cached azureml_pipeline_steps-1.10.0-py3-none-any.whl (58 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.9.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.9.0
+  Using cached azureml_pipeline_core-1.9.0-py3-none-any.whl (290 kB)
+Collecting azureml-pipeline-steps~=1.9.0
+  Using cached azureml_pipeline_steps-1.9.0-py3-none-any.whl (57 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.8.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.8.0
+  Using cached azureml_pipeline_core-1.8.0-py3-none-any.whl (290 kB)
+Collecting azureml-pipeline-steps~=1.8.0
+  Using cached azureml_pipeline_steps-1.8.0-py3-none-any.whl (57 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.7.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.7.0
+  Using cached azureml_pipeline_core-1.7.0.post1-py3-none-any.whl (290 kB)
+Collecting azureml-pipeline-steps~=1.7.0
+  Using cached azureml_pipeline_steps-1.7.0-py3-none-any.whl (57 kB)
+Collecting azureml-pipeline-core~=1.7.0
+  Using cached azureml_pipeline_core-1.7.0-py3-none-any.whl (290 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.6.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.6.0
+  Using cached azureml_pipeline_core-1.6.0-py3-none-any.whl (290 kB)
+Collecting azureml-pipeline-steps~=1.6.0
+  Using cached azureml_pipeline_steps-1.6.0-py3-none-any.whl (57 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.5.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.5.0
+  Using cached azureml_pipeline_core-1.5.0-py3-none-any.whl (277 kB)
+Collecting azureml-pipeline-steps~=1.5.0
+  Using cached azureml_pipeline_steps-1.5.0-py3-none-any.whl (51 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.4.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.4.0
+  Using cached azureml_pipeline_core-1.4.0-py3-none-any.whl (272 kB)
+Collecting azureml-pipeline-steps~=1.4.0
+  Using cached azureml_pipeline_steps-1.4.0-py3-none-any.whl (49 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.3.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core~=1.3.0
+  Using cached azureml_pipeline_core-1.3.0-py3-none-any.whl (271 kB)
+Collecting azureml-pipeline-steps~=1.3.0
+  Using cached azureml_pipeline_steps-1.3.0-py3-none-any.whl (49 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.2.0-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps~=1.2.0
+  Using cached azureml_pipeline_steps-1.2.0-py3-none-any.whl (48 kB)
+Collecting azureml-pipeline-core~=1.2.0
+  Using cached azureml_pipeline_core-1.2.0-py3-none-any.whl (271 kB)
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.1.5-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-steps==1.1.5.*
+  Using cached azureml_pipeline_steps-1.1.5-py3-none-any.whl (48 kB)
+Collecting azureml-pipeline-core==1.1.5.*
+  Using cached azureml_pipeline_core-1.1.5-py2.py3-none-any.whl (271 kB)
+Collecting azureml-core==1.1.5.*
+  Using cached azureml_core-1.1.5.7-py2.py3-none-any.whl (1.2 MB)
+Requirement already satisfied: pytz in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (2021.3)
+Requirement already satisfied: azure-mgmt-keyvault>=0.40.0 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (9.3.0)
+Requirement already satisfied: azure-graphrbac>=0.40.0 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.61.1)
+Requirement already satisfied: pyopenssl in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (21.0.0)
+Requirement already satisfied: msrest>=0.5.1 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.6.21)
+Requirement already satisfied: urllib3>=1.23 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (1.26.7)
+Requirement already satisfied: azure-mgmt-containerregistry>=2.0.0 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) 
+(8.2.0)
+Collecting azure-mgmt-resource<9.0.0,>=1.2.1
+  Using cached azure_mgmt_resource-8.0.1-py2.py3-none-any.whl (758 kB)
+Requirement already satisfied: backports.tempfile in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (1.0)
+Requirement already satisfied: jsonpickle in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (2.1.0)
+Requirement already satisfied: cryptography!=1.9,!=2.0.*,!=2.1.*,!=2.2.* in ./opt/anaconda3/lib/python3.9/site-packages (from 
+azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (3.4.8)
+Requirement already satisfied: PyJWT in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (2.1.0)
+Requirement already satisfied: docker in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (5.0.3)
+Collecting ruamel.yaml<=0.15.89,>=0.15.35
+  Using cached ruamel.yaml-0.15.89.tar.gz (306 kB)
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: azure-mgmt-authorization>=0.40.0 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) 
+(0.61.0)
+Requirement already satisfied: pathspec in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.7.0)
+Requirement already satisfied: six>=1.11.0 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (1.16.0)
+Requirement already satisfied: contextlib2 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.6.0.post1)
+Requirement already satisfied: SecretStorage in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (3.3.2)
+Requirement already satisfied: adal>=1.2.0 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (1.2.7)
+Requirement already satisfied: jmespath in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.10.0)
+Requirement already satisfied: ndg-httpsclient in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.5.1)
+Requirement already satisfied: requests>=2.19.1 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (2.26.0)
+Requirement already satisfied: azure-mgmt-storage>=1.5.0 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (19.1.0)
+Requirement already satisfied: azure-common>=1.1.12 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (1.1.28)
+Requirement already satisfied: msrestazure>=0.4.33 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.6.4)
+Requirement already satisfied: python-dateutil>=2.7.3 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (2.8.2)
+Collecting azureml-train-automl-client==1.1.5.*
+  Using cached azureml_train_automl_client-1.1.5.2-py3-none-any.whl (78 kB)
+Collecting azureml-train-core==1.1.5.*
+  Using cached azureml_train_core-1.1.5-py3-none-any.whl (8.6 MB)
+Collecting azureml-automl-core==1.1.5.*
+  Using cached azureml_automl_core-1.1.5.1-py3-none-any.whl (108 kB)
+Collecting azureml-dataprep<1.4.0a,>=1.3.5
+  Using cached azureml_dataprep-1.3.6-py3-none-any.whl (26.6 MB)
+Collecting azureml-telemetry==1.1.5.*
+  Using cached azureml_telemetry-1.1.5.3-py3-none-any.whl (29 kB)
+Collecting azureml-train-restclients-hyperdrive==1.1.5.*
+  Using cached azureml_train_restclients_hyperdrive-1.1.5-py3-none-any.whl (18 kB)
+Collecting flake8<=3.7.9,>=3.1.0
+  Using cached flake8-3.7.9-py2.py3-none-any.whl (69 kB)
+Collecting applicationinsights
+  Using cached applicationinsights-0.11.10-py2.py3-none-any.whl (55 kB)
+Requirement already satisfied: azure-mgmt-core<2.0.0,>=1.2.0 in ./opt/anaconda3/lib/python3.9/site-packages (from 
+azure-mgmt-containerregistry>=2.0.0->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (1.3.0)
+Collecting azureml-dataprep<1.4.0a,>=1.3.5
+  Using cached azureml_dataprep-1.3.5-py3-none-any.whl (26.6 MB)
+INFO: pip is looking at multiple versions of azure-mgmt-storage to determine which version is compatible with other requirements. This could take a while.
+Collecting azure-mgmt-storage>=1.5.0
+  Using cached azure_mgmt_storage-20.0.0-py3-none-any.whl (2.0 MB)
+INFO: pip is looking at multiple versions of azure-mgmt-resource to determine which version is compatible with other requirements. This could take a while.
+Collecting azure-mgmt-resource<9.0.0,>=1.2.1
+  Using cached azure_mgmt_resource-8.0.0-py2.py3-none-any.whl (758 kB)
+INFO: pip is looking at multiple versions of azure-mgmt-keyvault to determine which version is compatible with other requirements. This could take a while.
+Collecting azure-mgmt-keyvault>=0.40.0
+  Using cached azure_mgmt_keyvault-9.3.0-py2.py3-none-any.whl (412 kB)
+INFO: pip is looking at multiple versions of azure-mgmt-containerregistry to determine which version is compatible with other requirements. This could take a while.
+Collecting azure-mgmt-containerregistry>=2.0.0
+  Using cached azure_mgmt_containerregistry-9.1.0-py3-none-any.whl (1.1 MB)
+INFO: pip is looking at multiple versions of azure-mgmt-authorization to determine which version is compatible with other requirements. This could take a while.
+Collecting azure-mgmt-authorization>=0.40.0
+  Using cached azure_mgmt_authorization-2.0.0-py2.py3-none-any.whl (465 kB)
+INFO: pip is looking at multiple versions of azure-graphrbac to determine which version is compatible with other requirements. This could take a while.
+Collecting azure-graphrbac>=0.40.0
+  Using cached azure_graphrbac-0.61.1-py2.py3-none-any.whl (141 kB)
+INFO: pip is looking at multiple versions of azure-common to determine which version is compatible with other requirements. This could take a while.
+Collecting azure-common>=1.1.12
+  Using cached azure_common-1.1.28-py2.py3-none-any.whl (14 kB)
+INFO: pip is looking at multiple versions of adal to determine which version is compatible with other requirements. This could take a while.
+Collecting adal>=1.2.0
+  Using cached adal-1.2.7-py2.py3-none-any.whl (55 kB)
+INFO: pip is looking at multiple versions of azureml-train-restclients-hyperdrive to determine which version is compatible with other requirements. This could take a while.
+INFO: pip is looking at multiple versions of azureml-telemetry to determine which version is compatible with other requirements. This could take a while.
+Collecting azureml-telemetry==1.1.5.*
+  Using cached azureml_telemetry-1.1.5.2-py3-none-any.whl (29 kB)
+  Using cached azureml_telemetry-1.1.5.1-py3-none-any.whl (29 kB)
+  Using cached azureml_telemetry-1.1.5-py3-none-any.whl (29 kB)
+INFO: pip is looking at multiple versions of azureml-automl-core to determine which version is compatible with other requirements. This could take a while.
+Collecting azureml-automl-core==1.1.5.*
+  Using cached azureml_automl_core-1.1.5-py3-none-any.whl (107 kB)
+INFO: pip is looking at multiple versions of azureml-train-core to determine which version is compatible with other requirements. This could take a while.
+INFO: pip is looking at multiple versions of azureml-train-automl-client to determine which version is compatible with other requirements. This could take a while.
+Collecting azureml-train-automl-client==1.1.5.*
+  Using cached azureml_train_automl_client-1.1.5.1-py3-none-any.whl (78 kB)
+INFO: pip is looking at multiple versions of azureml-train-restclients-hyperdrive to determine which version is compatible with other requirements. This could take a while.
+INFO: pip is looking at multiple versions of azureml-telemetry to determine which version is compatible with other requirements. This could take a while.
+  Using cached azureml_train_automl_client-1.1.5-py3-none-any.whl (78 kB)
+Collecting azureml-dataprep==1.3.2
+  Using cached azureml_dataprep-1.3.2-py3-none-any.whl (26.6 MB)
+INFO: pip is looking at multiple versions of azureml-core to determine which version is compatible with other requirements. This could take a while.
+Collecting azureml-core==1.1.5.*
+  Using cached azureml_core-1.1.5.6-py2.py3-none-any.whl (1.2 MB)
+Requirement already satisfied: azure-mgmt-resource>=1.2.1 in ./opt/anaconda3/lib/python3.9/site-packages (from azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (20.1.0)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. 
+If you want to abort this run, press Ctrl + C.
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. 
+If you want to abort this run, press Ctrl + C.
+  Using cached azureml_core-1.1.5.5-py2.py3-none-any.whl (1.2 MB)
+INFO: pip is looking at multiple versions of azureml-train-core to determine which version is compatible with other requirements. This could take a while.
+INFO: pip is looking at multiple versions of azureml-automl-core to determine which version is compatible with other requirements. This could take a while.
+INFO: pip is looking at multiple versions of azureml-train-automl-client to determine which version is compatible with other requirements. This could take a while.
+  Using cached azureml_core-1.1.5.4-py2.py3-none-any.whl (1.2 MB)
+  Using cached azureml_core-1.1.5.3-py2.py3-none-any.whl (1.2 MB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. 
+If you want to abort this run, press Ctrl + C.
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. 
+If you want to abort this run, press Ctrl + C.
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. 
+If you want to abort this run, press Ctrl + C.
+  Using cached azureml_core-1.1.5.2-py2.py3-none-any.whl (1.2 MB)
+  Using cached azureml_core-1.1.5.1-py2.py3-none-any.whl (1.2 MB)
+  Using cached azureml_core-1.1.5-py2.py3-none-any.whl (1.2 MB)
+INFO: pip is looking at multiple versions of azureml-core to determine which version is compatible with other requirements. This could take a while.
+Collecting azureml-pipeline
+  Using cached azureml_pipeline-1.0.85-py3-none-any.whl (3.7 kB)
+Collecting azureml-pipeline-core==1.0.85.*
+  Using cached azureml_pipeline_core-1.0.85.1-py2.py3-none-any.whl (269 kB)
+Collecting azureml-pipeline-steps==1.0.85.*
+  Using cached azureml_pipeline_steps-1.0.85-py3-none-any.whl (41 kB)
+Collecting azureml-core==1.0.85.*
+  Using cached azureml_core-1.0.85.6-py2.py3-none-any.whl (1.2 MB)
+Collecting azureml-train-core==1.0.85.*
+  Using cached azureml_train_core-1.0.85-py3-none-any.whl (8.6 MB)
+Collecting azureml-telemetry==1.0.85.*
+  Using cached azureml_telemetry-1.0.85.2-py3-none-any.whl (29 kB)
+Collecting azureml-train-restclients-hyperdrive==1.0.85.*
+  Using cached azureml_train_restclients_hyperdrive-1.0.85-py3-none-any.whl (18 kB)
+Requirement already satisfied: cffi>=1.12 in ./opt/anaconda3/lib/python3.9/site-packages (from 
+cryptography!=1.9,!=2.0.*,!=2.1.*,!=2.2.*->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (1.14.6)
+Requirement already satisfied: entrypoints<0.4.0,>=0.3.0 in ./opt/anaconda3/lib/python3.9/site-packages (from 
+flake8<=3.7.9,>=3.1.0->azureml-train-core==1.1.5.*->azureml-pipeline-steps==1.1.5.*->azureml-pipeline) (0.3)
+Requirement already satisfied: mccabe<0.7.0,>=0.6.0 in ./opt/anaconda3/lib/python3.9/site-packages (from 
+flake8<=3.7.9,>=3.1.0->azureml-train-core==1.1.5.*->azureml-pipeline-steps==1.1.5.*->azureml-pipeline) (0.6.1)
+Collecting pyflakes<2.2.0,>=2.1.0
+  Using cached pyflakes-2.1.1-py2.py3-none-any.whl (59 kB)
+Collecting pycodestyle<2.6.0,>=2.5.0
+  Using cached pycodestyle-2.5.0-py2.py3-none-any.whl (51 kB)
+Requirement already satisfied: requests-oauthlib>=0.5.0 in ./opt/anaconda3/lib/python3.9/site-packages (from msrest>=0.5.1->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) 
+(1.3.1)
+Requirement already satisfied: certifi>=2017.4.17 in ./opt/anaconda3/lib/python3.9/site-packages (from msrest>=0.5.1->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) 
+(2021.10.8)
+Requirement already satisfied: isodate>=0.6.0 in ./opt/anaconda3/lib/python3.9/site-packages (from msrest>=0.5.1->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.6.1)
+Requirement already satisfied: charset-normalizer~=2.0.0 in ./opt/anaconda3/lib/python3.9/site-packages (from 
+requests>=2.19.1->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (2.0.4)
+Requirement already satisfied: idna<4,>=2.5 in ./opt/anaconda3/lib/python3.9/site-packages (from requests>=2.19.1->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (3.2)
+Requirement already satisfied: backports.weakref in ./opt/anaconda3/lib/python3.9/site-packages (from backports.tempfile->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) 
+(1.0.post1)
+Requirement already satisfied: websocket-client>=0.32.0 in ./opt/anaconda3/lib/python3.9/site-packages (from docker->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) 
+(1.3.2)
+Requirement already satisfied: pyasn1>=0.1.1 in ./opt/anaconda3/lib/python3.9/site-packages (from ndg-httpsclient->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.4.8)
+Requirement already satisfied: jeepney>=0.6 in ./opt/anaconda3/lib/python3.9/site-packages (from SecretStorage->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (0.8.0)
+Requirement already satisfied: azure-core<2.0.0,>=1.15.0 in ./opt/anaconda3/lib/python3.9/site-packages (from 
+azure-mgmt-core<2.0.0,>=1.2.0->azure-mgmt-containerregistry>=2.0.0->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (1.21.1)
+Requirement already satisfied: pycparser in ./opt/anaconda3/lib/python3.9/site-packages (from 
+cffi>=1.12->cryptography!=1.9,!=2.0.*,!=2.1.*,!=2.2.*->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (2.20)
+Requirement already satisfied: oauthlib>=3.0.0 in ./opt/anaconda3/lib/python3.9/site-packages (from 
+requests-oauthlib>=0.5.0->msrest>=0.5.1->azureml-core==1.1.5.*->azureml-pipeline-core==1.1.5.*->azureml-pipeline) (3.2.0)
+Building wheels for collected packages: ruamel.yaml
+  Building wheel for ruamel.yaml (setup.py) ... error
+  error: subprocess-exited-with-error
+  
+  × python setup.py bdist_wheel did not run successfully.
+  │ exit code: 1
+  ╰─> [515 lines of output]
+      sys.argv ['/private/var/folders/kx/5tm29s6d0qq470dnfsfbg_940000gn/T/pip-install-wtmhxacn/ruamel-yaml_12dbecda6cb74be98e126586ed22073c/setup.py', 'bdist_wheel', '-d', 
+'/private/var/folders/kx/5tm29s6d0qq470dnfsfbg_940000gn/T/pip-wheel-gsnfr313']
+      test compiling test_ruamel_yaml
+      running bdist_wheel
+      running build
+      running build_py
+      creating build
+      creating build/lib.macosx-10.9-x86_64-cpython-39
+      creating build/lib.macosx-10.9-x86_64-cpython-39/ruamel
+      copying .ruamel/__init__.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel
+      creating build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scalarfloat.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scanner.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./compat.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./error.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./anchor.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./constructor.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./composer.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./util.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./events.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scalarint.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scalarbool.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./configobjwalker.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./__init__.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./representer.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./tokens.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./dumper.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./cyaml.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./parser.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./reader.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scalarstring.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./loader.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./resolver.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./serializer.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./nodes.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./timestamp.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./main.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./emitter.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./comments.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./LICENSE -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      running build_ext
+      building '_ruamel_yaml' extension
+      creating build/temp.macosx-10.9-x86_64-cpython-39
+      creating build/temp.macosx-10.9-x86_64-cpython-39/ext
+      clang -Wno-unused-result -Wsign-compare -Wunreachable-code -DNDEBUG -fwrapv -O2 -Wall -fPIC -O2 -isystem /Users/bencouser/opt/anaconda3/include -arch x86_64 
+-I/Users/bencouser/opt/anaconda3/include -fPIC -O2 -isystem /Users/bencouser/opt/anaconda3/include -arch x86_64 -I/Users/bencouser/opt/anaconda3/include/python3.9 -c ext/_ruamel_yaml.c -o 
+build/temp.macosx-10.9-x86_64-cpython-39/ext/_ruamel_yaml.o
+      In file included from ext/_ruamel_yaml.c:523:
+      ext/_ruamel_yaml.h:10:9: warning: 'PyString_CheckExact' macro redefined [-Wmacro-redefined]
+      #define PyString_CheckExact PyBytes_CheckExact
+              ^
+      ext/_ruamel_yaml.c:323:11: note: previous definition is here
+        #define PyString_CheckExact          PyUnicode_CheckExact
+                ^
+      ext/_ruamel_yaml.c:1769:17: warning: assigning to 'char *' from 'const char *' discards qualifiers [-Wincompatible-pointer-types-discards-qualifiers]
+        __pyx_v_value = yaml_get_version_string();
+                      ^ ~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:3270:52: warning: incompatible function pointer types passing 'int (void *, char *, int, int *)' to parameter of type 'yaml_read_handler_t *' (aka 'int (*)(void *, 
+unsigned char *, unsigned long, unsigned long *)') [-Wincompatible-function-pointer-types]
+          yaml_parser_set_input((&__pyx_v_self->parser), __pyx_f_12_ruamel_yaml_input_handler, ((void *)__pyx_v_self));
+                                                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/yaml.h:1370:30: note: passing argument to parameter 'handler' here
+              yaml_read_handler_t *handler, void *data);
+                                   ^
+      ext/_ruamel_yaml.c:3511:59: warning: passing 'char *' to parameter of type 'const unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+          yaml_parser_set_input_string((&__pyx_v_self->parser), PyString_AS_STRING(__pyx_v_stream), PyString_GET_SIZE(__pyx_v_stream));
+                                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.h:11:29: note: expanded from macro 'PyString_AS_STRING'
+      #define PyString_AS_STRING  PyBytes_AS_STRING
+                                  ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/bytesobject.h:32:31: note: expanded from macro 'PyBytes_AS_STRING'
+      #define PyBytes_AS_STRING(op) (assert(PyBytes_Check(op)), \
+                                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/yaml.h:1344:30: note: passing argument to parameter 'input' here
+              const unsigned char *input, size_t size);
+                                   ^
+      ext/_ruamel_yaml.c:5413:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.tag_directive.handle); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 416, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:5425:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.tag_directive.prefix); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 417, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6539:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.alias.value); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 447, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6631:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.anchor.value); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 450, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6723:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.tag.handle); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 453, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6735:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.tag.suffix); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 454, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6867:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_DecodeUTF8(__pyx_v_token->data.scalar.value, __pyx_v_token->data.scalar.length, ((char *)"strict")); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 459, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:452:17: note: passing argument to parameter 'string' here
+          const char *string,         /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:8631:42: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+              __pyx_t_4 = PyUnicode_FromString(__pyx_v_tag_directive->handle); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 573, __pyx_L1_error)
+                                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:8643:42: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+              __pyx_t_4 = PyUnicode_FromString(__pyx_v_tag_directive->prefix); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 574, __pyx_L1_error)
+                                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:8902:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.alias.anchor); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 585, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9014:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.scalar.anchor); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 590, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9055:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.scalar.tag); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 593, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9076:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_4 = PyUnicode_DecodeUTF8(__pyx_v_event->data.scalar.value, __pyx_v_event->data.scalar.length, ((char *)"strict")); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 594, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:452:17: note: passing argument to parameter 'string' here
+          const char *string,         /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9464:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.sequence_start.anchor); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 619, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9505:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.sequence_start.tag); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 622, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9754:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.mapping_start.anchor); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 636, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9795:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.mapping_start.tag); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 639, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:11493:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.alias.anchor); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 733, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:11813:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_6 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.scalar.anchor); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 749, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:11869:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_6 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.sequence_start.anchor); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 752, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:11925:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_6 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.mapping_start.anchor); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 755, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:12602:36: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+        __pyx_t_2 = PyUnicode_DecodeUTF8(__pyx_v_self->parsed_event.data.scalar.value, __pyx_v_self->parsed_event.data.scalar.length, ((char *)"strict")); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 
+790, __pyx_L1_error)
+                                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:452:17: note: passing argument to parameter 'string' here
+          const char *string,         /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:12825:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.scalar.tag); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 803, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:13395:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.sequence_start.tag); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 836, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:14028:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.mapping_start.tag); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 875, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:15399:53: warning: incompatible function pointer types passing 'int (void *, char *, int)' to parameter of type 'yaml_write_handler_t *' (aka 'int (*)(void *, unsigned 
+char *, unsigned long)') [-Wincompatible-function-pointer-types]
+        yaml_emitter_set_output((&__pyx_v_self->emitter), __pyx_f_12_ruamel_yaml_output_handler, ((void *)__pyx_v_self));
+                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/yaml.h:1837:31: note: passing argument to parameter 'handler' here
+              yaml_write_handler_t *handler, void *data);
+                                    ^
+      ext/_ruamel_yaml.c:16789:44: warning: assigning to 'yaml_char_t *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+              __pyx_v_tag_directives_end->handle = PyString_AS_STRING(__pyx_v_handle);
+                                                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:16904:44: warning: assigning to 'yaml_char_t *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+              __pyx_v_tag_directives_end->prefix = PyString_AS_STRING(__pyx_v_prefix);
+                                                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:17241:62: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_alias_event_initialize(__pyx_v_event, __pyx_v_anchor) == 0) != 0);
+                                                                   ^~~~~~~~~~~~~~
+      ext/yaml.h:555:63: note: passing argument to parameter 'anchor' here
+      yaml_alias_event_initialize(yaml_event_t *event, yaml_char_t *anchor);
+                                                                    ^
+      ext/_ruamel_yaml.c:17956:63: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                    ^~~~~~~~~~~~~~
+      ext/yaml.h:581:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag,
+                           ^
+      ext/_ruamel_yaml.c:17956:79: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                                    ^~~~~~~~~~~
+      ext/yaml.h:581:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag,
+                                                ^
+      ext/_ruamel_yaml.c:17956:92: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                                                 ^~~~~~~~~~~~~
+      ext/yaml.h:582:22: note: passing argument to parameter 'value' here
+              yaml_char_t *value, int length,
+                           ^
+      ext/_ruamel_yaml.c:18390:71: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = ((yaml_sequence_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);
+                                                                            ^~~~~~~~~~~~~~
+      ext/yaml.h:604:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                           ^
+      ext/_ruamel_yaml.c:18390:87: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = ((yaml_sequence_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);
+                                                                                            ^~~~~~~~~~~
+      ext/yaml.h:604:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                                                ^
+      ext/_ruamel_yaml.c:18824:70: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_mapping_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);
+                                                                           ^~~~~~~~~~~~~~
+      ext/yaml.h:636:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                           ^
+      ext/_ruamel_yaml.c:18824:86: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_mapping_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);
+                                                                                           ^~~~~~~~~~~
+      ext/yaml.h:636:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                                                ^
+      ext/_ruamel_yaml.c:20303:42: warning: assigning to 'yaml_char_t *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+            __pyx_v_tag_directives_end->handle = PyString_AS_STRING(__pyx_v_handle);
+                                               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:20418:42: warning: assigning to 'yaml_char_t *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+            __pyx_v_tag_directives_end->prefix = PyString_AS_STRING(__pyx_v_prefix);
+                                               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:21278:65: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_alias_event_initialize((&__pyx_v_event), __pyx_v_anchor) == 0) != 0);
+                                                                      ^~~~~~~~~~~~~~
+      ext/yaml.h:555:63: note: passing argument to parameter 'anchor' here
+      yaml_alias_event_initialize(yaml_event_t *event, yaml_char_t *anchor);
+                                                                    ^
+      ext/_ruamel_yaml.c:22089:68: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_scalar_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                         ^~~~~~~~~~~~~~
+      ext/yaml.h:581:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag,
+                           ^
+      ext/_ruamel_yaml.c:22089:84: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_scalar_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                                         ^~~~~~~~~~~
+      ext/yaml.h:581:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag,
+                                                ^
+      ext/_ruamel_yaml.c:22089:97: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_scalar_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                                                      ^~~~~~~~~~~~~
+      ext/yaml.h:582:22: note: passing argument to parameter 'value' here
+              yaml_char_t *value, int length,
+                           ^
+      ext/_ruamel_yaml.c:22476:76: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_sequence_start_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);
+                                                                                 ^~~~~~~~~~~~~~
+      ext/yaml.h:604:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                           ^
+      ext/_ruamel_yaml.c:22476:92: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_sequence_start_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);
+                                                                                                 ^~~~~~~~~~~
+      ext/yaml.h:604:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                                                ^
+      ext/_ruamel_yaml.c:23006:75: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_mapping_start_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);
+                                                                                ^~~~~~~~~~~~~~
+      ext/yaml.h:636:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                           ^
+      ext/_ruamel_yaml.c:23006:91: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_mapping_start_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);
+                                                                                                ^~~~~~~~~~~
+      ext/yaml.h:636:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                                                ^
+      ext/_ruamel_yaml.c:25793:34: error: no member named 'tp_print' in 'struct _typeobject'
+        __pyx_type_12_ruamel_yaml_Mark.tp_print = 0;
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+      ext/_ruamel_yaml.c:25810:37: error: no member named 'tp_print' in 'struct _typeobject'
+        __pyx_type_12_ruamel_yaml_CParser.tp_print = 0;
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+      ext/_ruamel_yaml.c:25821:38: error: no member named 'tp_print' in 'struct _typeobject'
+        __pyx_type_12_ruamel_yaml_CEmitter.tp_print = 0;
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+      ext/_ruamel_yaml.c:26908:22: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                           ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:261:7: note: expanded from macro 'PyUnicode_GET_SIZE'
+            PyUnicode_WSTR_LENGTH(op) :                    \
+            ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:22: warning: 'PyUnicode_AsUnicode' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                           ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:262:14: note: expanded from macro 'PyUnicode_GET_SIZE'
+            ((void)PyUnicode_AsUnicode(_PyObject_CAST(op)),\
+                   ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:580:1: note: 'PyUnicode_AsUnicode' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3) PyAPI_FUNC(Py_UNICODE *) PyUnicode_AsUnicode(
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:22: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                           ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:264:8: note: expanded from macro 'PyUnicode_GET_SIZE'
+             PyUnicode_WSTR_LENGTH(op)))
+             ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:52: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                         ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:261:7: note: expanded from macro 'PyUnicode_GET_SIZE'
+            PyUnicode_WSTR_LENGTH(op) :                    \
+            ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:52: warning: 'PyUnicode_AsUnicode' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                         ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:262:14: note: expanded from macro 'PyUnicode_GET_SIZE'
+            ((void)PyUnicode_AsUnicode(_PyObject_CAST(op)),\
+                   ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:580:1: note: 'PyUnicode_AsUnicode' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3) PyAPI_FUNC(Py_UNICODE *) PyUnicode_AsUnicode(
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:52: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                         ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:264:8: note: expanded from macro 'PyUnicode_GET_SIZE'
+             PyUnicode_WSTR_LENGTH(op)))
+             ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:26: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                               ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:261:7: note: expanded from macro 'PyUnicode_GET_SIZE'
+            PyUnicode_WSTR_LENGTH(op) :                    \
+            ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:26: warning: 'PyUnicode_AsUnicode' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                               ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:262:14: note: expanded from macro 'PyUnicode_GET_SIZE'
+            ((void)PyUnicode_AsUnicode(_PyObject_CAST(op)),\
+                   ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:580:1: note: 'PyUnicode_AsUnicode' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3) PyAPI_FUNC(Py_UNICODE *) PyUnicode_AsUnicode(
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:26: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                               ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:264:8: note: expanded from macro 'PyUnicode_GET_SIZE'
+             PyUnicode_WSTR_LENGTH(op)))
+             ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:59: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                                ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:261:7: note: expanded from macro 'PyUnicode_GET_SIZE'
+            PyUnicode_WSTR_LENGTH(op) :                    \
+            ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:59: warning: 'PyUnicode_AsUnicode' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                                ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:262:14: note: expanded from macro 'PyUnicode_GET_SIZE'
+            ((void)PyUnicode_AsUnicode(_PyObject_CAST(op)),\
+                   ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:580:1: note: 'PyUnicode_AsUnicode' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3) PyAPI_FUNC(Py_UNICODE *) PyUnicode_AsUnicode(
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:59: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                                ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:264:8: note: expanded from macro 'PyUnicode_GET_SIZE'
+             PyUnicode_WSTR_LENGTH(op)))
+             ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      62 warnings and 3 errors generated.
+      error: command '/usr/bin/clang' failed with exit code 1
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for ruamel.yaml
+  Running setup.py clean for ruamel.yaml
+Failed to build ruamel.yaml
+Installing collected packages: ruamel.yaml, applicationinsights, pyflakes, pycodestyle, flake8, azureml-train-restclients-hyperdrive, azure-mgmt-resource, azureml-core, azureml-telemetry, 
+azureml-pipeline-core, azureml-train-core, azureml-pipeline-steps, azureml-pipeline
+  Attempting uninstall: ruamel.yaml
+    Found existing installation: ruamel.yaml 0.17.21
+    Uninstalling ruamel.yaml-0.17.21:
+      Successfully uninstalled ruamel.yaml-0.17.21
+  Running setup.py install for ruamel.yaml ... error
+  error: subprocess-exited-with-error
+  
+  × Running setup.py install for ruamel.yaml did not run successfully.
+  │ exit code: 1
+  ╰─> [517 lines of output]
+      sys.argv ['/private/var/folders/kx/5tm29s6d0qq470dnfsfbg_940000gn/T/pip-install-wtmhxacn/ruamel-yaml_12dbecda6cb74be98e126586ed22073c/setup.py', 'install', '--record', 
+'/private/var/folders/kx/5tm29s6d0qq470dnfsfbg_940000gn/T/pip-record-331o4i1c/install-record.txt', '--single-version-externally-managed', '--compile', '--install-headers', 
+'/Users/bencouser/opt/anaconda3/include/python3.9/ruamel.yaml']
+      test compiling test_ruamel_yaml
+      running install
+      /Users/bencouser/opt/anaconda3/lib/python3.9/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other 
+standards-based tools.
+        warnings.warn(
+      running build
+      running build_py
+      creating build
+      creating build/lib.macosx-10.9-x86_64-cpython-39
+      creating build/lib.macosx-10.9-x86_64-cpython-39/ruamel
+      copying .ruamel/__init__.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel
+      creating build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scalarfloat.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scanner.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./compat.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./error.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./anchor.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./constructor.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./composer.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./util.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./events.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scalarint.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scalarbool.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./configobjwalker.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./__init__.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./representer.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./tokens.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./dumper.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./cyaml.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./parser.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./reader.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./scalarstring.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./loader.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./resolver.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./serializer.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./nodes.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./timestamp.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./main.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./emitter.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./comments.py -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      copying ./LICENSE -> build/lib.macosx-10.9-x86_64-cpython-39/ruamel/yaml
+      running build_ext
+      building '_ruamel_yaml' extension
+      creating build/temp.macosx-10.9-x86_64-cpython-39
+      creating build/temp.macosx-10.9-x86_64-cpython-39/ext
+      clang -Wno-unused-result -Wsign-compare -Wunreachable-code -DNDEBUG -fwrapv -O2 -Wall -fPIC -O2 -isystem /Users/bencouser/opt/anaconda3/include -arch x86_64 
+-I/Users/bencouser/opt/anaconda3/include -fPIC -O2 -isystem /Users/bencouser/opt/anaconda3/include -arch x86_64 -I/Users/bencouser/opt/anaconda3/include/python3.9 -c ext/_ruamel_yaml.c -o 
+build/temp.macosx-10.9-x86_64-cpython-39/ext/_ruamel_yaml.o
+      In file included from ext/_ruamel_yaml.c:523:
+      ext/_ruamel_yaml.h:10:9: warning: 'PyString_CheckExact' macro redefined [-Wmacro-redefined]
+      #define PyString_CheckExact PyBytes_CheckExact
+              ^
+      ext/_ruamel_yaml.c:323:11: note: previous definition is here
+        #define PyString_CheckExact          PyUnicode_CheckExact
+                ^
+      ext/_ruamel_yaml.c:1769:17: warning: assigning to 'char *' from 'const char *' discards qualifiers [-Wincompatible-pointer-types-discards-qualifiers]
+        __pyx_v_value = yaml_get_version_string();
+                      ^ ~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:3270:52: warning: incompatible function pointer types passing 'int (void *, char *, int, int *)' to parameter of type 'yaml_read_handler_t *' (aka 'int (*)(void *, 
+unsigned char *, unsigned long, unsigned long *)') [-Wincompatible-function-pointer-types]
+          yaml_parser_set_input((&__pyx_v_self->parser), __pyx_f_12_ruamel_yaml_input_handler, ((void *)__pyx_v_self));
+                                                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/yaml.h:1370:30: note: passing argument to parameter 'handler' here
+              yaml_read_handler_t *handler, void *data);
+                                   ^
+      ext/_ruamel_yaml.c:3511:59: warning: passing 'char *' to parameter of type 'const unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+          yaml_parser_set_input_string((&__pyx_v_self->parser), PyString_AS_STRING(__pyx_v_stream), PyString_GET_SIZE(__pyx_v_stream));
+                                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.h:11:29: note: expanded from macro 'PyString_AS_STRING'
+      #define PyString_AS_STRING  PyBytes_AS_STRING
+                                  ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/bytesobject.h:32:31: note: expanded from macro 'PyBytes_AS_STRING'
+      #define PyBytes_AS_STRING(op) (assert(PyBytes_Check(op)), \
+                                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/yaml.h:1344:30: note: passing argument to parameter 'input' here
+              const unsigned char *input, size_t size);
+                                   ^
+      ext/_ruamel_yaml.c:5413:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.tag_directive.handle); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 416, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:5425:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.tag_directive.prefix); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 417, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6539:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.alias.value); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 447, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6631:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.anchor.value); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 450, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6723:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.tag.handle); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 453, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6735:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_token->data.tag.suffix); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 454, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:6867:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_DecodeUTF8(__pyx_v_token->data.scalar.value, __pyx_v_token->data.scalar.length, ((char *)"strict")); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 459, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:452:17: note: passing argument to parameter 'string' here
+          const char *string,         /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:8631:42: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+              __pyx_t_4 = PyUnicode_FromString(__pyx_v_tag_directive->handle); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 573, __pyx_L1_error)
+                                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:8643:42: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+              __pyx_t_4 = PyUnicode_FromString(__pyx_v_tag_directive->prefix); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 574, __pyx_L1_error)
+                                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:8902:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.alias.anchor); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 585, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9014:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.scalar.anchor); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 590, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9055:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.scalar.tag); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 593, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9076:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_4 = PyUnicode_DecodeUTF8(__pyx_v_event->data.scalar.value, __pyx_v_event->data.scalar.length, ((char *)"strict")); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 594, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:452:17: note: passing argument to parameter 'string' here
+          const char *string,         /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9464:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.sequence_start.anchor); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 619, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9505:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.sequence_start.tag); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 622, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9754:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.mapping_start.anchor); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 636, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:9795:40: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_4 = PyUnicode_FromString(__pyx_v_event->data.mapping_start.tag); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 639, __pyx_L1_error)
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:11493:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.alias.anchor); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 733, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:11813:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_6 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.scalar.anchor); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 749, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:11869:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_6 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.sequence_start.anchor); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 752, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:11925:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_6 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.mapping_start.anchor); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 755, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:12602:36: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+        __pyx_t_2 = PyUnicode_DecodeUTF8(__pyx_v_self->parsed_event.data.scalar.value, __pyx_v_self->parsed_event.data.scalar.length, ((char *)"strict")); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 
+790, __pyx_L1_error)
+                                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:452:17: note: passing argument to parameter 'string' here
+          const char *string,         /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:12825:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.scalar.tag); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 803, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:13395:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.sequence_start.tag); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 836, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:14028:38: warning: passing 'yaml_char_t *' (aka 'unsigned char *') to parameter of type 'const char *' converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = PyUnicode_FromString(__pyx_v_self->parsed_event.data.mapping_start.tag); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 875, __pyx_L1_error)
+                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      /Users/bencouser/opt/anaconda3/include/python3.9/unicodeobject.h:138:17: note: passing argument to parameter 'u' here
+          const char *u              /* UTF-8 encoded string */
+                      ^
+      ext/_ruamel_yaml.c:15399:53: warning: incompatible function pointer types passing 'int (void *, char *, int)' to parameter of type 'yaml_write_handler_t *' (aka 'int (*)(void *, unsigned 
+char *, unsigned long)') [-Wincompatible-function-pointer-types]
+        yaml_emitter_set_output((&__pyx_v_self->emitter), __pyx_f_12_ruamel_yaml_output_handler, ((void *)__pyx_v_self));
+                                                          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/yaml.h:1837:31: note: passing argument to parameter 'handler' here
+              yaml_write_handler_t *handler, void *data);
+                                    ^
+      ext/_ruamel_yaml.c:16789:44: warning: assigning to 'yaml_char_t *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+              __pyx_v_tag_directives_end->handle = PyString_AS_STRING(__pyx_v_handle);
+                                                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:16904:44: warning: assigning to 'yaml_char_t *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+              __pyx_v_tag_directives_end->prefix = PyString_AS_STRING(__pyx_v_prefix);
+                                                 ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:17241:62: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_alias_event_initialize(__pyx_v_event, __pyx_v_anchor) == 0) != 0);
+                                                                   ^~~~~~~~~~~~~~
+      ext/yaml.h:555:63: note: passing argument to parameter 'anchor' here
+      yaml_alias_event_initialize(yaml_event_t *event, yaml_char_t *anchor);
+                                                                    ^
+      ext/_ruamel_yaml.c:17956:63: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                    ^~~~~~~~~~~~~~
+      ext/yaml.h:581:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag,
+                           ^
+      ext/_ruamel_yaml.c:17956:79: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                                    ^~~~~~~~~~~
+      ext/yaml.h:581:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag,
+                                                ^
+      ext/_ruamel_yaml.c:17956:92: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                                                 ^~~~~~~~~~~~~
+      ext/yaml.h:582:22: note: passing argument to parameter 'value' here
+              yaml_char_t *value, int length,
+                           ^
+      ext/_ruamel_yaml.c:18390:71: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = ((yaml_sequence_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);
+                                                                            ^~~~~~~~~~~~~~
+      ext/yaml.h:604:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                           ^
+      ext/_ruamel_yaml.c:18390:87: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_3 = ((yaml_sequence_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);
+                                                                                            ^~~~~~~~~~~
+      ext/yaml.h:604:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                                                ^
+      ext/_ruamel_yaml.c:18824:70: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_mapping_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);
+                                                                           ^~~~~~~~~~~~~~
+      ext/yaml.h:636:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                           ^
+      ext/_ruamel_yaml.c:18824:86: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_mapping_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);
+                                                                                           ^~~~~~~~~~~
+      ext/yaml.h:636:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                                                ^
+      ext/_ruamel_yaml.c:20303:42: warning: assigning to 'yaml_char_t *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+            __pyx_v_tag_directives_end->handle = PyString_AS_STRING(__pyx_v_handle);
+                                               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:20418:42: warning: assigning to 'yaml_char_t *' (aka 'unsigned char *') from 'char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+            __pyx_v_tag_directives_end->prefix = PyString_AS_STRING(__pyx_v_prefix);
+                                               ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ext/_ruamel_yaml.c:21278:65: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+          __pyx_t_2 = ((yaml_alias_event_initialize((&__pyx_v_event), __pyx_v_anchor) == 0) != 0);
+                                                                      ^~~~~~~~~~~~~~
+      ext/yaml.h:555:63: note: passing argument to parameter 'anchor' here
+      yaml_alias_event_initialize(yaml_event_t *event, yaml_char_t *anchor);
+                                                                    ^
+      ext/_ruamel_yaml.c:22089:68: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_scalar_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                         ^~~~~~~~~~~~~~
+      ext/yaml.h:581:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag,
+                           ^
+      ext/_ruamel_yaml.c:22089:84: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_scalar_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                                         ^~~~~~~~~~~
+      ext/yaml.h:581:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag,
+                                                ^
+      ext/_ruamel_yaml.c:22089:97: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_scalar_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, 
+__pyx_v_scalar_style) == 0) != 0);
+                                                                                                      ^~~~~~~~~~~~~
+      ext/yaml.h:582:22: note: passing argument to parameter 'value' here
+              yaml_char_t *value, int length,
+                           ^
+      ext/_ruamel_yaml.c:22476:76: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_sequence_start_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);
+                                                                                 ^~~~~~~~~~~~~~
+      ext/yaml.h:604:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                           ^
+      ext/_ruamel_yaml.c:22476:92: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_sequence_start_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);
+                                                                                                 ^~~~~~~~~~~
+      ext/yaml.h:604:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                                                ^
+      ext/_ruamel_yaml.c:23006:75: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_mapping_start_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);
+                                                                                ^~~~~~~~~~~~~~
+      ext/yaml.h:636:22: note: passing argument to parameter 'anchor' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                           ^
+      ext/_ruamel_yaml.c:23006:91: warning: passing 'char *' to parameter of type 'yaml_char_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign 
+[-Wpointer-sign]
+            __pyx_t_2 = ((yaml_mapping_start_event_initialize((&__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);
+                                                                                                ^~~~~~~~~~~
+      ext/yaml.h:636:43: note: passing argument to parameter 'tag' here
+              yaml_char_t *anchor, yaml_char_t *tag, int implicit,
+                                                ^
+      ext/_ruamel_yaml.c:25793:34: error: no member named 'tp_print' in 'struct _typeobject'
+        __pyx_type_12_ruamel_yaml_Mark.tp_print = 0;
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+      ext/_ruamel_yaml.c:25810:37: error: no member named 'tp_print' in 'struct _typeobject'
+        __pyx_type_12_ruamel_yaml_CParser.tp_print = 0;
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+      ext/_ruamel_yaml.c:25821:38: error: no member named 'tp_print' in 'struct _typeobject'
+        __pyx_type_12_ruamel_yaml_CEmitter.tp_print = 0;
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+      ext/_ruamel_yaml.c:26908:22: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                           ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:261:7: note: expanded from macro 'PyUnicode_GET_SIZE'
+            PyUnicode_WSTR_LENGTH(op) :                    \
+            ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:22: warning: 'PyUnicode_AsUnicode' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                           ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:262:14: note: expanded from macro 'PyUnicode_GET_SIZE'
+            ((void)PyUnicode_AsUnicode(_PyObject_CAST(op)),\
+                   ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:580:1: note: 'PyUnicode_AsUnicode' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3) PyAPI_FUNC(Py_UNICODE *) PyUnicode_AsUnicode(
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:22: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                           ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:264:8: note: expanded from macro 'PyUnicode_GET_SIZE'
+             PyUnicode_WSTR_LENGTH(op)))
+             ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:52: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                         ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:261:7: note: expanded from macro 'PyUnicode_GET_SIZE'
+            PyUnicode_WSTR_LENGTH(op) :                    \
+            ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:52: warning: 'PyUnicode_AsUnicode' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                         ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:262:14: note: expanded from macro 'PyUnicode_GET_SIZE'
+            ((void)PyUnicode_AsUnicode(_PyObject_CAST(op)),\
+                   ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:580:1: note: 'PyUnicode_AsUnicode' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3) PyAPI_FUNC(Py_UNICODE *) PyUnicode_AsUnicode(
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26908:52: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                          (PyUnicode_GET_SIZE(**name) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                         ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:264:8: note: expanded from macro 'PyUnicode_GET_SIZE'
+             PyUnicode_WSTR_LENGTH(op)))
+             ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:26: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                               ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:261:7: note: expanded from macro 'PyUnicode_GET_SIZE'
+            PyUnicode_WSTR_LENGTH(op) :                    \
+            ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:26: warning: 'PyUnicode_AsUnicode' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                               ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:262:14: note: expanded from macro 'PyUnicode_GET_SIZE'
+            ((void)PyUnicode_AsUnicode(_PyObject_CAST(op)),\
+                   ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:580:1: note: 'PyUnicode_AsUnicode' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3) PyAPI_FUNC(Py_UNICODE *) PyUnicode_AsUnicode(
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:26: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                               ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:264:8: note: expanded from macro 'PyUnicode_GET_SIZE'
+             PyUnicode_WSTR_LENGTH(op)))
+             ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:59: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                                ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:261:7: note: expanded from macro 'PyUnicode_GET_SIZE'
+            PyUnicode_WSTR_LENGTH(op) :                    \
+            ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:59: warning: 'PyUnicode_AsUnicode' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                                ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:262:14: note: expanded from macro 'PyUnicode_GET_SIZE'
+            ((void)PyUnicode_AsUnicode(_PyObject_CAST(op)),\
+                   ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:580:1: note: 'PyUnicode_AsUnicode' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3) PyAPI_FUNC(Py_UNICODE *) PyUnicode_AsUnicode(
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      ext/_ruamel_yaml.c:26924:59: warning: '_PyUnicode_get_wstr_length' is deprecated [-Wdeprecated-declarations]
+                              (PyUnicode_GET_SIZE(**argname) != PyUnicode_GET_SIZE(key)) ? 1 :
+                                                                ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:264:8: note: expanded from macro 'PyUnicode_GET_SIZE'
+             PyUnicode_WSTR_LENGTH(op)))
+             ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:451:35: note: expanded from macro 'PyUnicode_WSTR_LENGTH'
+      #define PyUnicode_WSTR_LENGTH(op) _PyUnicode_get_wstr_length((PyObject*)op)
+                                        ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/cpython/unicodeobject.h:445:1: note: '_PyUnicode_get_wstr_length' has been explicitly marked deprecated here
+      Py_DEPRECATED(3.3)
+      ^
+      /Users/bencouser/opt/anaconda3/include/python3.9/pyport.h:508:54: note: expanded from macro 'Py_DEPRECATED'
+      #define Py_DEPRECATED(VERSION_UNUSED) __attribute__((__deprecated__))
+                                                           ^
+      62 warnings and 3 errors generated.
+      error: command '/usr/bin/clang' failed with exit code 1
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  WARNING: No metadata found in ./opt/anaconda3/lib/python3.9/site-packages
+  Rolling back uninstall of ruamel-yaml
+  Moving to /Users/bencouser/opt/anaconda3/lib/python3.9/site-packages/ruamel.yaml-0.17.21-py3.9-nspkg.pth
+   from /private/var/folders/kx/5tm29s6d0qq470dnfsfbg_940000gn/T/pip-uninstall-1jxgr0w3/ruamel.yaml-0.17.21-py3.9-nspkg.pth
+  Moving to /Users/bencouser/opt/anaconda3/lib/python3.9/site-packages/ruamel.yaml-0.17.21.dist-info/
+   from /Users/bencouser/opt/anaconda3/lib/python3.9/site-packages/~uamel.yaml-0.17.21.dist-info
+  Moving to /Users/bencouser/opt/anaconda3/lib/python3.9/site-packages/ruamel/yaml/
+   from /Users/bencouser/opt/anaconda3/lib/python3.9/site-packages/ruamel/~aml
+error: legacy-install-failure
+
+× Encountered error while trying to install package.
+╰─> ruamel.yaml
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for output from the failure.
